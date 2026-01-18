@@ -1,2 +1,14 @@
-# git-industri
-Latihan memakai git untuk project dengan team
+Belajar Git untuk Siap Industri
+
+# Project Title
+
+Semua perubahan nantinya akan dipelajari melalui readme ini
+
+# Feature List Git
+
+- Clone
+- Branch
+- Commit
+- Cherry-pick
+- Push
+- Pull
